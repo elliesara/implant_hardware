@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ADG758BCPZ_REEL7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Analog Devices", "ADG758BCPZ-REEL7" (!) = "", "QFN50P400X400X80-21N-D", "Quad Flat No-Lead", "584-ADG758BCPZ-R7", "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADG758BCPZ-REEL7?qs=BpaRKvA4VqHkaBuI1D%252BNjw%3D%3D", "Analog Multiplexer Single 8:1 20-Pin LFCSP EP T/R", "https://www.mouser.in/datasheet/2/609/ADG758_759-1502992.pdf", "0.8 mm"
+END_PART
+
+END.

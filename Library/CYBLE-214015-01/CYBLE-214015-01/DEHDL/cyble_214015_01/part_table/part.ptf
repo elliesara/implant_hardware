@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CYBLE_214015_01'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Cypress Semiconductor", "CYBLE-214015-01" (!) = "", "CYBLE21401501", "Other", "727-CYBLE-214015-01", "https://www.mouser.co.uk/ProductDetail/Cypress-Semiconductor/CYBLE-214015-01?qs=wd5RIQLrsJhcYt83vZQWnA%3D%3D", "PSoC Bluetooth 4.2 Module", "http://www.cypress.com/file/331011/download", "1.8 mm"
+END_PART
+
+END.

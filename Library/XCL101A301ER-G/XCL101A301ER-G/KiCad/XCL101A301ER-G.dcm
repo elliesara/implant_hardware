@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XCL101A301ER-G
+D Switching Voltage Regulators 100mA Inductor micro DCDC Converter
+K
+F https://www.torexsemi.com/file/xcl101/XCL101.pdf
+$ENDCMP
+#
+#End Doc Library

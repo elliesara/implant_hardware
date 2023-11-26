@@ -1,0 +1,9 @@
+Manufacturer=Torex
+PartNumber=XCL101A301ER-G
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=9
+Version=1.4
+Released=2020-03-15 00:07:03
+Downloaded=2023-11-25 18:21:22
+3D=N

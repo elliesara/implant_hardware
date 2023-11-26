@@ -1,0 +1,16 @@
+.ADG758BCPZ-REEL7 :1 ;Analog Multiplexer Single 8:1 20-Pin LFCSP EP T/R
+QFN50P400X400X80-21N-D
+*STM IC
+*NGS
+*PLB 1="EN" 2="VSS" 3="S1" 4="S2" 5="S3" 6="S4" 7="D" 8="NC_1" 9="NC_2" 10="S8" 11="S7" 12="S6" 13="S5" 14="VDD" 15="GND" 16="NC_3" 17="A2" 18="A1" 19="A0" 20="NC_4" 21="EP"
+*MXP 21
+*DFN ADG758BCPZ-REEL7
+~!Mouser Part Number (584-ADG758BCPZ-R7)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADG758BCPZ-REEL7?qs=BpaRKvA4VqHkaBuI1D%252BNjw%3D%3D)
+~!Manufacturer_Name (Analog Devices)
+~!Manufacturer_Part_Number (ADG758BCPZ-REEL7)
+~!Link Datasheet (https://www.mouser.in/datasheet/2/609/ADG758_759-1502992.pdf)
+~!Height (0.8mm)
+~!3D_Model (ADG758BCPZ-REEL7)
+ADG758BCPZ-REEL7
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 

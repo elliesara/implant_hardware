@@ -1,0 +1,9 @@
+Manufacturer=Cypress Semiconductor
+PartNumber=CYBLE-214015-01
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=32
+Version=2.2
+Released=2021-01-19 11:27:00
+Downloaded=2023-11-25 18:26:59
+3D=Y

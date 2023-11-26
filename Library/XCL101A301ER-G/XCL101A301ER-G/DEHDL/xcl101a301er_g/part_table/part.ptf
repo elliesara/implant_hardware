@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'XCL101A301ER_G'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Torex", "XCL101A301ER-G" (!) = "", "XCL101A301ERG", "Other", "865-XCL101A301ER-G", "https://www.mouser.co.uk/ProductDetail/Torex-Semiconductor/XCL101A301ER-G?qs=AsjdqWjXhJ8wOG80xjS4Aw%3D%3D", "Switching Voltage Regulators 100mA Inductor micro DCDC Converter", "https://www.torexsemi.com/file/xcl101/XCL101.pdf", "1.04 mm"
+END_PART
+
+END.

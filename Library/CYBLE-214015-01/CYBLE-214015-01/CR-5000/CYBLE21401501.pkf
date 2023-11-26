@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "CYBLE21401501"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "CYBLE21401501")
+        (spec "default")
+    )
+)

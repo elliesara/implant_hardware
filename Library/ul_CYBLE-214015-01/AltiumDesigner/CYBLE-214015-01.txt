@@ -1,0 +1,178 @@
+# Created by Ultra Librarian 8.3.344 Copyright © 1999-2021
+# Frank Frank, Accelerated Designs
+
+StartFootprints
+
+Footprint (Name "IC32_CYBLE-214015-01_CYP")
+Pad (Name "1") (Location -200.9843, 26.33489939) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "32") (Location 200.9843, 26.33489939) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "2") (Location -200.9843, 0.35059939) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "31") (Location 200.9843, 0.35059939) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "3") (Location -200.9843, -25.63360061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "30") (Location 200.9843, -25.63360061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "4") (Location -200.9843, -51.61790061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "29") (Location 200.9843, -51.61790061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "5") (Location -200.9843, -77.60210061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "28") (Location 200.9843, -77.60210061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "6") (Location -200.9843, -103.58640061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "27") (Location 200.9843, -103.58640061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "7") (Location -200.9843, -129.57060061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "26") (Location 200.9843, -129.57060061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "8") (Location -200.9843, -155.55490061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "25") (Location 200.9843, -155.55490061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "10") (Location -168.8976, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "11") (Location -142.9134, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "12") (Location -116.9291, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "13") (Location -90.9449, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "14") (Location -64.9606, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "15") (Location -38.9764, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "16") (Location -12.9921, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "17") (Location 12.9921, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "18") (Location 38.9764, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "19") (Location 64.9606, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "20") (Location 90.9449, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "21") (Location 116.9291, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "22") (Location 142.9134, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "23") (Location 168.8976, -201.00000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 16, 31) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "9") (Location -201.9685, -181.54000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Pad (Name "24") (Location 201.9685, -181.54000061) (Surface True) (Rotation 0) (ExpandMask -15.5) (ExpandPaste -15.5)
+PadShape (Size 31, 16) (Shape Rectangular) (Layer Top)
+EndPad
+Line (Width 6) (Start -227.46850586, 226.49998474) (End -227.46850586, -226.5) (Layer Mechanical15) 
+Line (Width 6) (Start -227.46850586, -226.5) (End 227.46850586, -226.5) (Layer Mechanical15) 
+Line (Width 6) (Start 227.46850586, -226.5) (End 227.46850586, 226.49998474) (Layer Mechanical15) 
+Line (Width 6) (Start 227.46850586, 226.49998474) (End -227.46850586, 226.49998474) (Layer Mechanical15) 
+Polygon (PointCount 4) (Layer Mechanical15) 
+Point (-227.46850586, 226.49998474)
+Point (-227.46850586, -226.5)
+Point (227.46850586, -226.5)
+Point (227.46850586, 226.49998474)
+EndPolygon
+Line (Width 6) (Start 189.00586231, -221.5) (End 221.5, -221.5) (Layer TopOverlay) 
+Line (Width 6) (Start -221.5, -221.5) (End -189.00586231, -221.5) (Layer TopOverlay) 
+Line (Width 6) (Start 221.5, -221.5) (End 221.5, -202.00423014) (Layer TopOverlay) 
+Line (Width 6) (Start 221.5, 221.49998474) (End -221.5, 221.49998474) (Layer TopOverlay) 
+Line (Width 6) (Start -221.5, 221.49998474) (End -221.5, 46.43666635) (Layer TopOverlay) 
+Line (Width 6) (Start -221.5, -202.00423014) (End -221.5, -221.5) (Layer TopOverlay) 
+Line (Width 6) (Start 221.5, 46.43666635) (End 221.5, 221.49998474) (Layer TopOverlay) 
+Arc (Width 20) (Radius 15) (Location -291.5, 26.33487701) (StartAngle 0) (EndAngle 360) (Layer TopOverlay) 
+Line (Width 1) (Start -216.5, -216.5) (End 216.5, -216.5) (Layer Mechanical13) 
+Line (Width 1) (Start 216.5, -216.5) (End 216.5, 216.49998474) (Layer Mechanical13) 
+Line (Width 1) (Start 216.5, 216.49998474) (End -216.5, 216.49998474) (Layer Mechanical13) 
+Line (Width 1) (Start -216.5, 216.49998474) (End -216.5, -216.5) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -200.98429871, 101.33488464) (StartAngle 0) (EndAngle 360) (Layer Mechanical13) 
+Arc (Width 20) (Radius 15) (Location -291.5, 26.33487701) (StartAngle 0) (EndAngle 360) (Layer BottomOverlay) 
+EndFootprint
+EndFootprints
+
+StartComponents
+
+Component (Name "CYBLE-214015-01") (PartCount 1) (DesPrefix "U?")
+Pin (Location 300, 0) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "1") (Name Visible "1") (PinSwap 0) (PartSwap 0) (PinSeq 1) (Part 1)
+Pin (Location 300, -100) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "2") (Name Visible "2") (PinSwap 0) (PartSwap 0) (PinSeq 2) (Part 1)
+Pin (Location 300, -200) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "3") (Name Visible "3") (PinSwap 0) (PartSwap 0) (PinSeq 3) (Part 1)
+Pin (Location 300, -300) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "4") (Name Visible "4") (PinSwap 0) (PartSwap 0) (PinSeq 4) (Part 1)
+Pin (Location 300, -400) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "5") (Name Visible "5") (PinSwap 0) (PartSwap 0) (PinSeq 5) (Part 1)
+Pin (Location 300, -500) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "6") (Name Visible "6") (PinSwap 0) (PartSwap 0) (PinSeq 6) (Part 1)
+Pin (Location 300, -600) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "7") (Name Visible "7") (PinSwap 0) (PartSwap 0) (PinSeq 7) (Part 1)
+Pin (Location 300, -700) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "8") (Name Visible "8") (PinSwap 0) (PartSwap 0) (PinSeq 8) (Part 1)
+Pin (Location 300, -800) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "9") (Name Visible "9") (PinSwap 0) (PartSwap 0) (PinSeq 9) (Part 1)
+Pin (Location 300, -900) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "10") (Name Visible "10") (PinSwap 0) (PartSwap 0) (PinSeq 10) (Part 1)
+Pin (Location 300, -1000) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "11") (Name Visible "11") (PinSwap 0) (PartSwap 0) (PinSeq 11) (Part 1)
+Pin (Location 300, -1100) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "12") (Name Visible "12") (PinSwap 0) (PartSwap 0) (PinSeq 12) (Part 1)
+Pin (Location 300, -1200) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "13") (Name Visible "13") (PinSwap 0) (PartSwap 0) (PinSeq 13) (Part 1)
+Pin (Location 300, -1300) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "14") (Name Visible "14") (PinSwap 0) (PartSwap 0) (PinSeq 14) (Part 1)
+Pin (Location 300, -1400) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "15") (Name Visible "15") (PinSwap 0) (PartSwap 0) (PinSeq 15) (Part 1)
+Pin (Location 300, -1500) (Rotation 180) (PinType Passive) (Length 300) (Width 0) (Designator Visible "16") (Name Visible "16") (PinSwap 0) (PartSwap 0) (PinSeq 16) (Part 1)
+Pin (Location 1300, -1500) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "17") (Name Visible "17") (PinSwap 0) (PartSwap 0) (PinSeq 17) (Part 1)
+Pin (Location 1300, -1400) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "18") (Name Visible "18") (PinSwap 0) (PartSwap 0) (PinSeq 18) (Part 1)
+Pin (Location 1300, -1300) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "19") (Name Visible "19") (PinSwap 0) (PartSwap 0) (PinSeq 19) (Part 1)
+Pin (Location 1300, -1200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "20") (Name Visible "20") (PinSwap 0) (PartSwap 0) (PinSeq 20) (Part 1)
+Pin (Location 1300, -1100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "21") (Name Visible "21") (PinSwap 0) (PartSwap 0) (PinSeq 21) (Part 1)
+Pin (Location 1300, -1000) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "22") (Name Visible "22") (PinSwap 0) (PartSwap 0) (PinSeq 22) (Part 1)
+Pin (Location 1300, -900) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "23") (Name Visible "23") (PinSwap 0) (PartSwap 0) (PinSeq 23) (Part 1)
+Pin (Location 1300, -800) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "24") (Name Visible "24") (PinSwap 0) (PartSwap 0) (PinSeq 24) (Part 1)
+Pin (Location 1300, -700) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "25") (Name Visible "25") (PinSwap 0) (PartSwap 0) (PinSeq 25) (Part 1)
+Pin (Location 1300, -600) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "26") (Name Visible "26") (PinSwap 0) (PartSwap 0) (PinSeq 26) (Part 1)
+Pin (Location 1300, -500) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "27") (Name Visible "27") (PinSwap 0) (PartSwap 0) (PinSeq 27) (Part 1)
+Pin (Location 1300, -400) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "28") (Name Visible "28") (PinSwap 0) (PartSwap 0) (PinSeq 28) (Part 1)
+Pin (Location 1300, -300) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "29") (Name Visible "29") (PinSwap 0) (PartSwap 0) (PinSeq 29) (Part 1)
+Pin (Location 1300, -200) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "30") (Name Visible "30") (PinSwap 0) (PartSwap 0) (PinSeq 30) (Part 1)
+Pin (Location 1300, -100) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "31") (Name Visible "31") (PinSwap 0) (PartSwap 0) (PinSeq 31) (Part 1)
+Pin (Location 1300, 0) (Rotation 0) (PinType Passive) (Length 300) (Width 0) (Designator Visible "32") (Name Visible "32") (PinSwap 0) (PartSwap 0) (PinSeq 32) (Part 1)
+Rectangle (Width 5) (Start 300, -1700) (End 1300, 200) (Part 1)
+Parameter (Name "Copyright") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Copyright (C) 2023 Ultra Librarian. All rights reserved.") (Part 1)
+Parameter (Name "Mfr_Name") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "Cypress Semiconductor") (Part 1)
+Parameter (Name "Manufacturer_Part_Number") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "CYBLE-214015-01") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_1") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "428-4538-2-ND") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_2") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "428-4538-1-ND") (Part 1)
+Parameter (Name "Digi-Key_Part_Number_3") (Location 0, 0) (Height 50) (Rotation 0) (Justification Center) (Value "428-4538-6-ND") (Part 1)
+Parameter (Name "RefDes") (Location 800, 400) (Height 82) (Rotation 0) (Justification Center) (Value "RefDes") (Part 1)
+Parameter (Name "Type") (Location 800, 300) (Height 82) (Rotation 0) (Justification Center) (Value "DEV") (Part 1)
+Description (Value "No Description Available") (Part 1)
+Comment (Value "CYBLE-214015-01") (Part 1)
+Footprint (Name "IC32_CYBLE-214015-01_CYP")
+EndComponent
+EndComponents

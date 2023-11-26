@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM21PG331SN1D
+D 0805 Ferrite Bead,330R,25%,1.5A,R09
+K
+F https://componentsearchengine.com/Datasheets/2/BLM21PG331SN1D.pdf
+$ENDCMP
+#
+#End Doc Library
